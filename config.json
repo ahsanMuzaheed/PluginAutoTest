@@ -1,0 +1,24 @@
+{
+    "enginePath":"D:\\Program Files\\Epic Games\\UE_4.23",
+    "pluginPath":"D:\\GitHub\\EasyAdsPlugin\\Plugins",
+    "pluginName":"EasyAdsPlugin",
+    "demoName":"TestCommonPlugin",
+    "demoProject":"https://www.dropbox.com/s/s0tvcskqwimg8ep/TestCommonPlugin424.zip?raw=1",
+    "demoProject423":"https://www.dropbox.com/s/8bdb1w3tr23qhsi/TestCommonPlugin.zip?raw=1",
+    "demoProject424":"https://www.dropbox.com/s/s0tvcskqwimg8ep/TestCommonPlugin424.zip?raw=1",
+    "useMarketplacePlugin":true,
+    "buildAndroid":true,
+    "buildIOS":false,
+    "overrideMinSdkVersion":16,
+    "admobSetting":{
+        "androidAppId":"ca-app-pub-7921597124175429~8001524594",
+        "androidBanner":"ca-app-pub-7921597124175429/9478257793",
+        "androidInterstitial":"ca-app-pub-7921597124175429/1954990999",
+        "androidRewardedVideo":"ca-app-pub-7921597124175429/3431724198",
+
+        "iosAppId":"ca-app-pub-3940256099942544~1458002511",
+        "iosBanner":"ca-app-pub-3940256099942544/2934735716",
+        "iosInterstitial":"ca-app-pub-3940256099942544/4411468910",
+        "iosRewardedVideo":"ca-app-pub-3940256099942544/1712485313"
+    }
+}
